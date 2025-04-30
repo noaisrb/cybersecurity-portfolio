@@ -38,3 +38,5 @@ To build a solid foundation in hands-on cybersecurity, with a focus on offensive
 ## 🌐 Read this in Spanish / Leer en Español
 
 👉 [README_es.md](README_es.md)
+
+Thank you for visiting!
