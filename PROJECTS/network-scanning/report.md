@@ -23,6 +23,7 @@ Command used:
 
 ```bash
 ip a
+```
 
 Result: the active interface was eth0 and the assigned IP was 192.168.1.x, which confirms that I was on a real local network with subnet 192.168.1.0/24.
 
@@ -34,6 +35,7 @@ Command used:
 
 ```bash
 sudo netdiscover -r 192.168.1.0/24
+```
 
 ![Netdiscover Scan](screenshot_netdiscover.png)
 
@@ -42,6 +44,7 @@ sudo netdiscover -r 192.168.1.0/24
 
 ```bash
 sudo nmap -sV -O 192.168.1.1
+```
 
 The router has three open ports: SSH, HTTP, and HTTPS.
 
