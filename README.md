@@ -1,37 +1,42 @@
-# Cybersecurity Portfolio – Noa Alegria
+# 🛡️ Cybersecurity Portfolio – Noa Alegria
 
-Bienvenido/a a mi portfolio de ciberseguridad. Este repositorio documenta mi aprendizaje desde cero en el mundo del hacking ético y la seguridad en la nube, combinando proyectos prácticos, writeups de retos y progreso en certificaciones técnicas.
-
----
-
-## Sobre mí
-
-Soy estudiante de Ingeniería Informática, interesada en especializarme en **ciberseguridad**, especialmente en las áreas de **hacking ético** y **cloud security**. Estoy empezando mi formación técnica y este portfolio me sirve para organizar y mostrar mis avances de forma pública y profesional.
-
-Estoy en proceso de aprender herramientas como **Kali Linux**, **Nmap**, **Metasploit**, así como conceptos fundamentales de redes, sistemas y arquitectura cloud.
+Welcome to my cybersecurity portfolio. This repository documents my learning journey from scratch in the field of **ethical hacking** and **cloud security**, combining hands-on projects, CTF writeups, and progress in technical certifications.
 
 ---
 
-## Estructura del portfolio
+## 👩‍💻 About Me
 
-- `CERTIFICATIONS.md`: Progreso en certificaciones técnicas.
-- `CV/`: Currículum en PDF actualizado.
-- `PROJECTS/`: Proyectos prácticos de red, escaneo, análisis de vulnerabilidades y scripts útiles.
-- `CTFs/`: Writeups de retos legales en plataformas como TryHackMe y HackTheBox.
-- `BLOG/`: Notas técnicas y resúmenes de lo que voy aprendiendo durante mi formación.
+I’m a Computer Science student, currently starting my training in **cybersecurity**, with a strong interest in **ethical hacking** and **cloud security**. This portfolio is where I organize and showcase my progress publicly and professionally.
+
+I'm learning tools like **Kali Linux**, **Nmap**, **Metasploit**, and core concepts in networking, systems, and cloud architecture.
 
 ---
 
-## Objetivo
+## 📁 Portfolio Structure
 
-Construir una base sólida en ciberseguridad práctica, con foco en técnicas ofensivas y entornos cloud, mientras me preparo para futuras certificaciones como **OSCP** o **CCSP** y para trabajar en el sector privado.
+- `CERTIFICATIONS.md`: Progress in technical certifications (e.g., EHE, OSCP, CCSP).
+- `CV/`: My updated resume in PDF format.
+- `PROJECTS/`: Practical projects involving networking, scanning, vulnerability analysis, and scripting.
+- `CTFs/`: Writeups of legal challenges from platforms like TryHackMe and HackTheBox.
+- `BLOG/`: Technical notes and summaries of what I learn along the way.
 
 ---
 
-## 📫 Contacto
+## 🎯 Goal
 
-- ✉️ Email: noa.israe7@gmail.com
-- 💼 LinkedIn: www.linkedin.com/in/noaisraelb
+To build a solid foundation in hands-on cybersecurity, with a focus on offensive techniques and cloud environments, while preparing for certifications like **OSCP** or **CCSP**, and aiming to work in the private sector.
 
-Gracias por tu visita.
+---
 
+## 📫 Contact
+
+- ✉️ Email: noa.israe7@gmail.com  
+- 💼 LinkedIn: [www.linkedin.com/in/noaisraelb](https://www.linkedin.com/in/noaisraelb)
+
+---
+
+---
+
+## 🌐 Read this in Spanish / Leer en Español
+
+👉 [README_es.md](README_es.md)
