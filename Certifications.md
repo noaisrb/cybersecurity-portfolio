@@ -24,7 +24,7 @@ This document tracks my progress in cybersecurity certifications and other relev
 
 | Certification                      | Provider                        | Focus Area              | Year | Certificate |
 |-----------------------------------|----------------------------------|--------------------------|------|-------------|
-| Youth and Leadership Program      | CEOE & 50&50GL                  | Leadership & Soft Skills | 2020 | [View PDF](certificates/liderazgo_ceoe.pdf) |
+| Youth and Leadership Program      | CEOE & 50&50GL                  | Leadership & Soft Skills | 2020 | Physical certificate |
 | Agile Project Management          | Santander Open Academy          | Agile Methodologies      | 2025 | [View PDF](certificates/agile-santander.pdf) |
 
 
