@@ -46,11 +46,12 @@ sudo netdiscover -r 192.168.1.0/24
 sudo nmap -sV -O 192.168.1.1
 ```
 
-The router has three open ports: SSH, HTTP, and HTTPS.
+Results: 
+- The router has three open ports: SSH, HTTP, and HTTPS.
 
-It runs Dropbear SSH server and a lightweight HTTP server (mini_httpd).
+- It runs Dropbear SSH server and a lightweight HTTP server (mini_httpd).
 
-The operating system is detected as embedded Linux (Linux 3.2 - 4.14).
+- The operating system is detected as embedded Linux (Linux 3.2 - 4.14).
 
 ![Nmap Scan](screenshot_nmap.png)
 
