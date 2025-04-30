@@ -50,11 +50,11 @@ sudo nmap -sV -O 192.168.1.1
 
 Resultado:
 
-El router tiene tres puertos abiertos: SSH (22), HTTP (80) y HTTPS (443).
+- El router tiene tres puertos abiertos: SSH (22), HTTP (80) y HTTPS (443).
 
-Utiliza el servidor SSH Dropbear y un servidor web ligero (mini_httpd).
+- Utiliza el servidor SSH Dropbear y un servidor web ligero (mini_httpd).
 
-El sistema operativo detectado es Linux embebido (Linux 3.2 - 4.14).
+- El sistema operativo detectado es Linux embebido (Linux 3.2 - 4.14).
 
 ![Nmap Scan](screenshot_nmap.png)
 
@@ -62,12 +62,12 @@ El sistema operativo detectado es Linux embebido (Linux 3.2 - 4.14).
 
 Este primer proyecto me ha dado experiencia práctica con técnicas esenciales de reconocimiento de red utilizadas en ciberseguridad. He aprendido a:
 
-Identificar mi propia dirección IP y comprender cómo se estructuran las redes locales.
+- Identificar mi propia dirección IP y comprender cómo se estructuran las redes locales.
 
-Usar netdiscover para detectar dispositivos reales conectados a la red local e interpretar direcciones IP, direcciones MAC y fabricantes.
+- Usar netdiscover para detectar dispositivos reales conectados a la red local e interpretar direcciones IP, direcciones MAC y fabricantes.
 
-Realizar un escaneo básico con Nmap para detectar puertos abiertos, servicios en ejecución y estimación del sistema operativo.
+- Realizar un escaneo básico con Nmap para detectar puertos abiertos, servicios en ejecución y estimación del sistema operativo.
 
-Leer y analizar los resultados de Nmap, incluyendo cómo identificar servicios (como SSH y HTTP) y sus versiones.
+- Leer y analizar los resultados de Nmap, incluyendo cómo identificar servicios (como SSH y HTTP) y sus versiones.
 
-Comprender cómo estas herramientas pueden usarse en las etapas iniciales de una prueba de penetración o auditoría de seguridad.
+- Comprender cómo estas herramientas pueden usarse en las etapas iniciales de una prueba de penetración o auditoría de seguridad.
