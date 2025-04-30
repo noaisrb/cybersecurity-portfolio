@@ -25,9 +25,10 @@ Comando utilizado:
 ip a
 ```
 
+Resultado: la interfaz activa era eth0 y la IP asignada 192.168.1.x, lo que confirma que estoy conectada a una red local real con subred 192.168.1.0/24.
+
 ![IP Scan](screenshot_ip.png)
 
-Resultado: la interfaz activa era eth0 y la IP asignada 192.168.1.x, lo que confirma que estoy conectada a una red local real con subred 192.168.1.0/24.
 
 ### 2. Descubrimiento de dispositivos con Netdiscover
 
@@ -47,8 +48,6 @@ Comando utilizado:
 sudo nmap -sV -O 192.168.1.1
 ```
 
-![Nmap Scan](screenshot_nmap.png)
-
 Resultado:
 
 El router tiene tres puertos abiertos: SSH (22), HTTP (80) y HTTPS (443).
@@ -56,6 +55,8 @@ El router tiene tres puertos abiertos: SSH (22), HTTP (80) y HTTPS (443).
 Utiliza el servidor SSH Dropbear y un servidor web ligero (mini_httpd).
 
 El sistema operativo detectado es Linux embebido (Linux 3.2 - 4.14).
+
+![Nmap Scan](screenshot_nmap.png)
 
 ### Lecciones aprendidas
 
