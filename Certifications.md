@@ -8,7 +8,7 @@ This document tracks my progress in cybersecurity certifications and other relev
 
 | Certification                          | Provider                | Year       | Certificate |
 |---------------------------------------|-------------------------|------------|-------------|
-| Fundamentals of Cybersecurity         | Cisco Networking Academy| 2024       |  |
+| Fundamentals of Cybersecurity         | Cisco Networking Academy| 2024       |  [View PDF](certificates/cybersecurity_fundamentals-cisco.pdf)
 
 ---
 
@@ -25,7 +25,7 @@ This document tracks my progress in cybersecurity certifications and other relev
 | Certification                      | Provider                        | Focus Area              | Year | Certificate |
 |-----------------------------------|----------------------------------|--------------------------|------|-------------|
 | Youth and Leadership Program      | CEOE & 50&50GL                  | Leadership & Soft Skills | 2020 | [View PDF](certificates/liderazgo_ceoe.pdf) |
-| Agile Project Management          | Santander Open Academy          | Agile Methodologies      | 2025 | [View PDF](certificates/agile_santander.pdf) |
+| Agile Project Management          | Santander Open Academy          | Agile Methodologies      | 2025 | [View PDF](certificates/agile-santander.pdf) |
 
 
 ---
